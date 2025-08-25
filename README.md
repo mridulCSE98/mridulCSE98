@@ -61,7 +61,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mridulCSE98/mridulCSE98/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mridulCSE98/mridulCSE98/output/github-snake.svg" />
-    <img alt="GitHub Snake Animation" src="https://raw.githubusercontent.com/mridulCSE98/mridulCSE98/output/github-snake.svg" style="max-width: 100%;" />
+    <img alt="GitHub Snake Animation" src="https://github.com/mridulCSE98/mridulCSE98/blob/main/snake.yml" style="max-width: 100%;" />
   </picture>
 </div>
 
