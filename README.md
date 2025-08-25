@@ -4,7 +4,7 @@
 <h2 align="center">HI MRIDUL KANTI KUNDU👋</h2>
 <p align="center">
   🎓 <b>CSE Student</b> | 👶 <b>New Programmer</b> | 🧠 <b>Lifelong Learner</b><br/>
-  🧩 Focused on building scalable backend systems with <b>NestJS</b>, <b>TypeORM</b>, and <b>PostgreSQL</b>
+  🧩 "Passionate about transforming data into intelligent solutions through expertise in <b>Data Science</b>, <b>Machine Learning</b>, and <b>Computer Vision</b>." 
 </p>
 
 <p align="center">
