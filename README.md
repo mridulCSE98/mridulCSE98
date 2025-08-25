@@ -31,8 +31,9 @@
 ### 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nestjs,nodejs,ts,js,nextjs,postgres,php,html,css,python,cpp,java,c,r,arduino," />
+  <img src="https://skillicons.dev/icons?i=python,r,tensorflow,pytorch,sklearn,opencv,numpy,pandas,matlab,mysql,sqlite,java,cpp,c,cs,js,html,css,php,nodejs,nextjs,react,nestjs,arduino,vercel,linux,aws,git,github,gitlab,bash,powershell,terraform,jenkins" />
 </p>
+
 
 ---
 
