@@ -12,11 +12,10 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/mridulCSE98/mridulCSE98/Mridul_Kanti_Kundu.pdf?raw=true">
-    <b>Download My CV</b>
+  <a href="https://github.com/mridulCSE98/mridulCSE98/raw/main/Mridul_Kanti_Kundu.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Download-CV-blue?style=for-the-badge&logo=adobeacrobatreader" alt="Download CV"/>
   </a>
 </p>
- [Download My CV](https://github.com/mridulCSE98/mridulCSE98/blob/main/Mridul_Kanti_Kundu.pdf?raw=true)
 
 
 ## 📫 Connect with Me
