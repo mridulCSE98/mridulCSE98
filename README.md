@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/mridulCSE98/mridulCSE98/blob/main/Mridul_Kanti_Kundu.pdf?raw=true">
+  <a href="https://github.com/Estiyak-rubs/Estiyak-rubs/blob/main/EstiyakRubaiatCV.pdf?raw=true">
     <b>Download My CV</b>
   </a>
 </p>
