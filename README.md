@@ -8,6 +8,12 @@
 </p>
 
 <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=mridulCSE98" width="120" alt="Profile Views of Mridul Kanti Kundu">
+</p>
+
+## 📫 Connect with Me
+
+<p align="center">
   <a href="mailto:mridulkundu98@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://linkedin.com/in/mridul-kanti-kundu-2255a61b3"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/mridulCSE98"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
@@ -28,13 +34,66 @@
 
 ---
 
-### 🛠 Tech Stack
+## 🛠️ Skills & Tools
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,r,tensorflow,pytorch,sklearn,opencv,numpy,pandas,matlab,mysql,sqlite,java,cpp,c,cs,js,html,css,php,nodejs,nextjs,react,nestjs,arduino,vercel,linux,aws,git,github,gitlab,bash,powershell,terraform,jenkins" />
+### **Languages**
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40" title="C"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40" title="C++"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" title="Java"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" title="Python"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40" title="C#"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" width="40" height="40" title="R"/>
 </p>
 
+### **Web Development**
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="50" height="50" title="HTML5"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="50" height="50" title="CSS3"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" height="50" title="JavaScript"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="50" height="50" title="PHP"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/XAMPP_logo.svg" width="50" height="50" title="XAMPP"/>
+</p>
 
+### **Data Science & ML**
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="50" height="50" title="Pandas"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="50" height="50" title="NumPy"/>
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="50" height="50" title="TensorFlow"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" width="50" height="50" title="Keras"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="50" height="50" title="Matplotlib"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="50" height="50" title="Scikit-Learn"/>
+  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="50" height="50" title="PyTorch"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" width="50" height="50" title="Jupyter Notebook"/>
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="50" height="50" title="Seaborn"/>
+  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="50" height="50" title="OpenCV"/>
+  <img src="https://images.plot.ly/logo/new-branding/plotly-logomark.png" width="50" height="50" title="Plotly"/>
+</p>
+
+### **Databases**
+<p align="left">
+  <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" width="50" height="50" title="MySQL"/>
+  <img src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" width="50" height="50" title="Oracle Database"/>
+</p>
+
+### **Operating Systems**
+<p align="left">
+  <img src="https://brandlogos.net/wp-content/uploads/2020/03/Linux-logo.png" width="40" height="40" title="Linux"/>
+  <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" width="40" height="40" title="Ubuntu"/>
+  <img src="https://www.vectorlogo.zone/logos/alpinelinux/alpinelinux-icon.svg" width="40" height="40" title="Alpine"/>
+  <img src="https://www.vectorlogo.zone/logos/centos/centos-icon.svg" width="40" height="40" title="CentOS"/>
+</p>
+
+### **Project Management & Tools**
+<p align="left">
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" title="Git"/>
+  <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="40" height="40" title="GitHub"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/intellij-idea-1.svg" width="40" height="40" title="IntelliJ"/>
+  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" width="40" height="40" title="VS Code"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="50" height="50" title="MATLAB"/>
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/proteus/proteus.png" width="50" height="50" title="Proteus"/>
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/emu8086/emu8086.png" width="50" height="50" title="EMU8086"/>
+</p>
 ---
 
 ### 📊 GitHub Stats
@@ -64,14 +123,6 @@
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-</p>
-
----
-
-### 👁️‍🗨️ Visitor Counter
-
-<p align="center">
-  <img src="https://profile-counter.glitch.me/mridulCSE98/count.svg" />
 </p>
 
 ---
