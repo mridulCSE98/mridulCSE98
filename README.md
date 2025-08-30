@@ -16,6 +16,7 @@
     <b>Download My CV</b>
   </a>
 </p>
+ [Download My CV](https://github.com/mridulCSE98/mridulCSE98/blob/main/Mridul_Kanti_Kundu.pdf?raw=true)
 
 
 ## 📫 Connect with Me
