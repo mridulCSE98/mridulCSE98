@@ -11,6 +11,9 @@
     <img src="https://komarev.com/ghpvc/?username=mridulCSE98" width="120" alt="Profile Views of Mridul Kanti Kundu">
 </p>
 
+ [Download My CV](https://github.com/mridulCSE98/mridulCSE98/blob/main/MridulKantiKundu.pdf?raw=true)
+
+
 ## 📫 Connect with Me
 
 <p align="center">
