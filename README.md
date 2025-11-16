@@ -59,7 +59,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="50" height="50" title="CSS3"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" height="50" title="JavaScript"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="50" height="50" title="PHP"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/XAMPP_logo.svg" width="50" height="50" title="XAMPP"/>
+ 
 </p>
 
 ### **Data Science & ML**
