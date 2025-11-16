@@ -98,8 +98,6 @@
   <img src="https://cdn.worldvectorlogo.com/logos/intellij-idea-1.svg" width="40" height="40" title="IntelliJ"/>
   <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" width="40" height="40" title="VS Code"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="50" height="50" title="MATLAB"/>
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/proteus/proteus.png" width="50" height="50" title="Proteus"/>
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/emu8086/emu8086.png" width="50" height="50" title="EMU8086"/>
 </p>
 ---
 
