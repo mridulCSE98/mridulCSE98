@@ -41,60 +41,25 @@
 
 ---
 
-<p align="left">
-  <!-- Languages -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" width="40"/>
-
-  <!-- Web -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40"/>
-
-  <!-- Data Science -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" width="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" width="40"/>
-  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40"/>
-  <img src="https://images.plot.ly/logo/new-branding/plotly-logomark.png" width="40"/>
-
-  <!-- Database -->
-  <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" width="40"/>
-
-  <!-- OS -->
-  <img src="https://brandlogos.net/wp-content/uploads/2020/03/Linux-logo.png" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/alpinelinux/alpinelinux-icon.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/centos/centos-icon.svg" width="40"/>
-
-  <!-- Tools -->
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/intellij-idea-1.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" width="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="40"/>
-</p>
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mridulCSE98&show_icons=true&theme=radical&hide_border=true&count_private=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mridulCSE98&layout=compact&theme=radical&hide_border=true" height="170" />
-</p>
-
----
+🛠️ Skills & Tools
+💻 Languages | 🌐 Web Development
+<table> <tr> <td valign="top">
+Languages
+<p> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" width="40"/> </p> </td> <td valign="top">
+Web Development
+<p> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="50"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="50"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="50"/> </p> </td> </tr> </table>
+📊 Data Science & ML | 🗄️ Databases
+<table> <tr> <td valign="top">
+Data Science & ML
+<p> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="45"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="45"/> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="45"/> <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" width="45"/> <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="45"/> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="45"/> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="45"/> <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" width="45"/> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="45"/> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="45"/> <img src="https://images.plot.ly/logo/new-branding/plotly-logomark.png" width="45"/> </p> </td> <td valign="top">
+Databases
+<p> <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" width="50"/> <img src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" width="50"/> </p> </td> </tr> </table>
+🖥️ Operating Systems | ⚙️ Tools
+<table> <tr> <td valign="top">
+Operating Systems
+<p> <img src="https://brandlogos.net/wp-content/uploads/2020/03/Linux-logo.png" width="40"/> <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" width="40"/> <img src="https://www.vectorlogo.zone/logos/alpinelinux/alpinelinux-icon.svg" width="40"/> <img src="https://www.vectorlogo.zone/logos/centos/centos-icon.svg" width="40"/> </p> </td> <td valign="top">
+Project Management & Tools
+<p> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/> <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="40"/> <img src="https://cdn.worldvectorlogo.com/logos/intellij-idea-1.svg" width="40"/> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" width="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="45"/> </p> </td> </tr> </table>
 
 ### 🏆 GitHub Streak & Trophies
 
